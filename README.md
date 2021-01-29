@@ -1,3 +1,3 @@
 # first
 first
-->setting_test
+->setting_test->resetting
